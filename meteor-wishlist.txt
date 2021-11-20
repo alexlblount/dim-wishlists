@@ -3,17 +3,23 @@ title:Meteor's DIM Wishlist
 
 // All weapons wishlist - any weapon with these perk combinations are considered good rolls.
 
-dimwishlist:item=-69420&perks=1820235745,3425386926#notes:any weapon: subsistance + rampage1
-dimwishlist:item=-69420&perks=1820235745,3551326236#notes:any weapon: subsistance + rampage2
-dimwishlist:item=-69420&perks=1820235745,4082225868#notes:any weapon: subsistance + swashbuckler
-dimwishlist:item=-69420&perks=1820235745,11612903#notes:any weapon: subsistance + adrenaline junkie
-dimwishlist:item=-69420&perks=1820235745,4049631843#notes:any weapon: subsistance + one for all
-
 dimwishlist:item=-69420&perks=1570042021,3425386926#notes:any weapon: heating up + rampage1
 dimwishlist:item=-69420&perks=1570042021,3551326236#notes:any weapon: heating up + rampage2
 dimwishlist:item=-69420&perks=1570042021,4082225868#notes:any weapon: heating up + swashbuckler
 dimwishlist:item=-69420&perks=1570042021,11612903#notes:any weapon: heating up + adrenaline junkie
 dimwishlist:item=-69420&perks=1570042021,4049631843#notes:any weapon: heating up + one for all
+
+dimwishlist:item=-69420&perks=2779035018,3425386926#notes:any weapon: feeding frenzy + rampage1
+dimwishlist:item=-69420&perks=2779035018,3551326236#notes:any weapon: feeding frenzy + rampage2
+dimwishlist:item=-69420&perks=2779035018,4082225868#notes:any weapon: feeding frenzy + swashbuckler
+dimwishlist:item=-69420&perks=2779035018,11612903#notes:any weapon: feeding frenzy + adrenaline junkie
+dimwishlist:item=-69420&perks=2779035018,4049631843#notes:any weapon: feeding frenzy + one for all
+
+dimwishlist:item=-69420&perks=1820235745,3425386926#notes:any weapon: subsistance + rampage1
+dimwishlist:item=-69420&perks=1820235745,3551326236#notes:any weapon: subsistance + rampage2
+dimwishlist:item=-69420&perks=1820235745,4082225868#notes:any weapon: subsistance + swashbuckler
+dimwishlist:item=-69420&perks=1820235745,11612903#notes:any weapon: subsistance + adrenaline junkie
+dimwishlist:item=-69420&perks=1820235745,4049631843#notes:any weapon: subsistance + one for all
 
 dimwishlist:item=-69420&perks=3643424744,3425386926#notes:any weapon: overflow + rampage1
 dimwishlist:item=-69420&perks=3643424744,3551326236#notes:any weapon: overflow + rampage2
