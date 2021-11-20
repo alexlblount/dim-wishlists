@@ -18,9 +18,13 @@ dimwishlist:item=-69420&perks=2946784966,1015611457#notes:any weapon: tunnel vis
 
 dimwishlist:item=-69420&perks=2946784966,2458213969#notes:any weapon: tunnel vision + multikill clip
 
+dimwishlist:item=-69420&perks=957782887,588594999#notes:any weapon: snapshot + moving target
+
+dimwishlist:item=-69420&perks=2779035018,1427256713#notes:any weapon: feeding frenzy + reservoir burst
+
 
 
 
 // trash list
 
-dimwishlist:item=--69420&perks=2420895100#notes:any weapon with extended mag
+dimwishlist:item=-2199171672&#notes:on one likes lonesome
