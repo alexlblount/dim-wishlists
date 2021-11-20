@@ -4,15 +4,15 @@ title:Meteor's DIM Wishlist
 // All weapons wishlist - any weapon with these perk combinations are considered good rolls.
 dimwishlist:item=-69420&perks=247725512,4049631843#notes:any weapon: rapid hit + one for all
 
-dimwishlist:item=-69420&perks=1820235745,3425386926#notes:any weapon: subsistance + rampage
+dimwishlist:item=-69420&perks=1820235745,3425386926#notes:any weapon: subsistance + rampage1
 
-dimwishlist:item=-69420&perks=1820235745,3551326236#notes:any weapon: subsistance + rampage
+dimwishlist:item=-69420&perks=1820235745,3551326236#notes:any weapon: subsistance + rampage2
 
 dimwishlist:item=-69420&perks=3300816228,1546637391#notes:any weapon: auto loading + vorpal
 
-dimwishlist:item=-69420&perks=1570042021,3425386926#notes:any weapon: heating up + rampage
+dimwishlist:item=-69420&perks=1570042021,3425386926#notes:any weapon: heating up + rampage1
 
-dimwishlist:item=-69420&perks=1570042021,3551326236#notes:any weapon: heating up + rampage
+dimwishlist:item=-69420&perks=1570042021,3551326236#notes:any weapon: heating up + rampage2
 
 dimwishlist:item=-69420&perks=2946784966,1015611457#notes:any weapon: tunnel vision + kill clip
 
@@ -21,6 +21,18 @@ dimwishlist:item=-69420&perks=2946784966,2458213969#notes:any weapon: tunnel vis
 dimwishlist:item=-69420&perks=957782887,588594999#notes:any weapon: snapshot + moving target
 
 dimwishlist:item=-69420&perks=2779035018,1427256713#notes:any weapon: feeding frenzy + reservoir burst
+
+dimwishlist:item=-69420&perks=1354429876,1546637391#notes:any weapon: fourth times the charm + vorpal
+
+dimwishlist:item=-69420&perks=247725512,1546637391#notes:any weapon: rapid hit + vorpal
+
+dimwishlist:item=-69420&perks=3643424744,4082225868#notes:any weapon: overflow + swashbuckler
+
+dimwishlist:item=-69420&perks=3643424744,3425386926#notes:any weapon: overflow + rampage1
+
+dimwishlist:item=-69420&perks=3643424744,3551326236#notes:any weapon: overflow + rampage2
+
+dimwishlist:item=-69420&perks=3643424744,4049631843#notes:any weapon: overflow + one for all
 
 
 
