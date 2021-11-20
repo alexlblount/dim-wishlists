@@ -3,4 +3,5 @@ title:Meteor's DIM Wishlist
 
 //All weapons wishlist - any weapon with these perk combinations are considered good rolls.
 dimwishlist:item=-69420&perks=247725512,4049631843#notes:any weapon: rapid hit + one for all
-dimwishlist:item=-69420&perks=1820235745,3425386926,3551326236#notes:any weapon: subsistance + rampage
+dimwishlist:item=-69420&perks=1820235745,3425386926#notes:any weapon: subsistance + rampage
+dimwishlist:item=-69420&perks=1820235745,3551326236#notes:any weapon: subsistance + rampage
