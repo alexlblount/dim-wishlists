@@ -1,0 +1,4 @@
+title:Meteor's DIM Wishlist
+//notes: any weapon - rapid hit, one for all
+dimwishlist:item=69420&perks=247725512,4049631843
+dimwishlist:item=69420&perks=4090651448,106909392,247725512,4049631843
