@@ -2,17 +2,32 @@ title:Meteor's DIM Wishlist
 // https://destinyitemmanager.fandom.com/wiki/Creating_Wish_Lists
 
 // All weapons wishlist - any weapon with these perk combinations are considered good rolls.
-dimwishlist:item=-69420&perks=247725512,4049631843#notes:any weapon: rapid hit + one for all
 
 dimwishlist:item=-69420&perks=1820235745,3425386926#notes:any weapon: subsistance + rampage1
-
 dimwishlist:item=-69420&perks=1820235745,3551326236#notes:any weapon: subsistance + rampage2
+dimwishlist:item=-69420&perks=1820235745,4082225868#notes:any weapon: subsistance + swashbuckler
+dimwishlist:item=-69420&perks=1820235745,11612903#notes:any weapon: subsistance + adrenaline junkie
+dimwishlist:item=-69420&perks=1820235745,4049631843#notes:any weapon: subsistance + one for all
+
+dimwishlist:item=-69420&perks=1570042021,3425386926#notes:any weapon: heating up + rampage1
+dimwishlist:item=-69420&perks=1570042021,3551326236#notes:any weapon: heating up + rampage2
+dimwishlist:item=-69420&perks=1570042021,4082225868#notes:any weapon: heating up + swashbuckler
+dimwishlist:item=-69420&perks=1570042021,11612903#notes:any weapon: heating up + adrenaline junkie
+dimwishlist:item=-69420&perks=1570042021,4049631843#notes:any weapon: heating up + one for all
+
+dimwishlist:item=-69420&perks=3643424744,3425386926#notes:any weapon: overflow + rampage1
+dimwishlist:item=-69420&perks=3643424744,3551326236#notes:any weapon: overflow + rampage2
+dimwishlist:item=-69420&perks=3643424744,4082225868#notes:any weapon: overflow + swashbuckler
+dimwishlist:item=-69420&perks=3643424744,11612903#notes:any weapon: overflow + adrenaline junkie
+dimwishlist:item=-69420&perks=3643424744,4049631843#notes:any weapon: overflow + one for all
+
+dimwishlist:item=-69420&perks=247725512,4049631843#notes:any weapon: rapid hit + one for all
+
+dimwishlist:item=-69420&perks=247725512,1546637391#notes:any weapon: rapid hit + vorpal
 
 dimwishlist:item=-69420&perks=3300816228,1546637391#notes:any weapon: auto loading + vorpal
 
-dimwishlist:item=-69420&perks=1570042021,3425386926#notes:any weapon: heating up + rampage1
-
-dimwishlist:item=-69420&perks=1570042021,3551326236#notes:any weapon: heating up + rampage2
+dimwishlist:item=-69420&perks=1354429876,1546637391#notes:any weapon: fourth times the charm + vorpal
 
 dimwishlist:item=-69420&perks=2946784966,1015611457#notes:any weapon: tunnel vision + kill clip
 
@@ -22,17 +37,7 @@ dimwishlist:item=-69420&perks=957782887,588594999#notes:any weapon: snapshot + m
 
 dimwishlist:item=-69420&perks=2779035018,1427256713#notes:any weapon: feeding frenzy + reservoir burst
 
-dimwishlist:item=-69420&perks=1354429876,1546637391#notes:any weapon: fourth times the charm + vorpal
-
-dimwishlist:item=-69420&perks=247725512,1546637391#notes:any weapon: rapid hit + vorpal
-
-dimwishlist:item=-69420&perks=3643424744,4082225868#notes:any weapon: overflow + swashbuckler
-
-dimwishlist:item=-69420&perks=3643424744,3425386926#notes:any weapon: overflow + rampage1
-
-dimwishlist:item=-69420&perks=3643424744,3551326236#notes:any weapon: overflow + rampage2
-
-dimwishlist:item=-69420&perks=3643424744,4049631843#notes:any weapon: overflow + one for all
+dimwishlist:item=-69420&perks=3523296417,11612903#notes:any weapon: demolitionist + adrenaline junkie
 
 
 
