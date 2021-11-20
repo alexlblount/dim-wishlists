@@ -9,3 +9,18 @@ dimwishlist:item=-69420&perks=1820235745,3425386926#notes:any weapon: subsistanc
 dimwishlist:item=-69420&perks=1820235745,3551326236#notes:any weapon: subsistance + rampage
 
 dimwishlist:item=-69420&perks=3300816228,1546637391#notes:any weapon: auto loading + vorpal
+
+dimwishlist:item=-69420&perks=1570042021,3425386926#notes:any weapon: heating up + rampage
+
+dimwishlist:item=-69420&perks=1570042021,3551326236#notes:any weapon: heating up + rampage
+
+dimwishlist:item=-69420&perks=2946784966,1015611457#notes:any weapon: tunnel vision + kill clip
+
+dimwishlist:item=-69420&perks=2946784966,2458213969#notes:any weapon: tunnel vision + multikill clip
+
+
+
+
+// trash list
+
+dimwishlist:item=--69420&perks=2420895100#notes:any weapon with extended mag
